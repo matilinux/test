@@ -114,11 +114,21 @@ Succeeded: 2 (changed=2)
 Failed:    0
 ------------
 Total states run:     2
+```
 
 Kokeilin toimiiko ssh komennolla
 
 ssh localhost
 
 Johon vastattiin kysymällä sormenjälkiä, eli voidaan todeta tämän onnistuneeksi.
+
+Lähteitä:
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
+http://terokarvinen.com/2016/publish-your-project-with-github
+http://terokarvinen.com/2018/aikataulu-%e2%80%93-palvelinten-hallinta-ict4tn022-4-ti-5-ke-5-loppukevat-2018-5p
+https://github.com/kristiansyrjanen/servermanagementcourse/blob/master/Harjoitus5.md
+
+
+
 
 
