@@ -37,7 +37,7 @@ Testasin vielä toimivuuden komennolla
 
 > sudo salt '*' cmd.run whoami
 
-Josta sain oikean vastauksen.
+Josta sain oikean vastauksen, eli "root".
 
 Sitten tein Salt-tiloille kansion, jonne loin tilat. Tilat löytyy salt kansiosta osoitteesta https://github.com/matilinux/test.git
 
